@@ -1,6 +1,5 @@
 # Calculator in Objective-C
 
-Calculadora em Objective-C
 Este projeto é uma implementação simples de uma calculadora de console em Objective-C. A calculadora suporta as seguintes operações:
 
 * Soma
