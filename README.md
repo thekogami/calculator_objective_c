@@ -1,2 +1,2 @@
-# calculator_objective_c
-Calculator in Objective-C
+# Calculator in Objective-C
+Basic Calculator in Objective-C
